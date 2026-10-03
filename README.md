@@ -14,7 +14,7 @@
 
 ## 📄 Research
 
-All AI Collective research is carried out under the supervision of **Dr. Umme Zahoora**.
+All research is carried out under the supervision of **Dr. Umme Zahoora**.
 
 | Paper | Status | Authors |
 |---|---|---|
