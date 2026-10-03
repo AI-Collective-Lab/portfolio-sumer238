@@ -18,7 +18,7 @@ All AI Collective research is carried out under the supervision of **Dr. Umme Za
 
 | Paper | Status | Authors |
 |---|---|---|
-| **A Privacy-Preserving Federated Learning Framework with Variance-Based Aggregation and Customized U-Net for Brain Tumor Segmentation** | 📨 Submitted · Frontiers | **[Sumer Iqbal](https://ai-collective-lab.github.io/portfolio-sumer238/)**, Khadija Tul Kubra, **[Muhammad Azeem Bhatti](https://ai-collective-lab.github.io/portfolio-muhammad-azeem-bhatti/)**, Farquleet Farhat Gondal, Saddam Hussain Khan, Umme Zahoora |
+| **A Privacy-Preserving Federated Learning Framework with Variance-Based Aggregation and Customized U-Net for Brain Tumor Segmentation** | 📝 Ready to submit · Frontiers | **[Sumer Iqbal](https://ai-collective-lab.github.io/portfolio-sumer238/)**, Khadija Tul Kubra, **[Muhammad Azeem Bhatti](https://ai-collective-lab.github.io/portfolio-muhammad-azeem-bhatti/)**, Farquleet Farhat Gondal, Saddam Hussain Khan, Umme Zahoora |
 
 ---
 Part of [AI Collective](https://ai-collective-lab.github.io/) · page source: [`index.html`](index.html), generated from the collective's shared data.
