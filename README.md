@@ -10,7 +10,7 @@
 
 | Project | Role | What it is | Links |
 |---|---|---|---|
-| **GAN-balanced plant disease classification** | Contributor | Does generating minority-class images fix an imbalanced dataset? | [Source](https://github.com/AI-Collective-Lab/Effectiveness-Of-Balancing-Dataset-On-Classification) · [Dataset on Kaggle](https://www.kaggle.com/datasets/muhammadazeemaif25/plant-disease-imbalanced-vs-gan-balanced) |
+| **GAN-balanced plant disease classification** | Contributor | Does generating minority-class images fix an imbalanced dataset? | [Source](https://github.com/AI-Collective-Lab/Effectiveness-Of-Balancing-Dataset-On-Classification) · [PlantVillage dataset](https://github.com/spMohanty/PlantVillage-Dataset) |
 
 ## 📄 Research
 
